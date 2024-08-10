@@ -1,1 +1,1 @@
-# weather-website
+# This is a basic weather website
